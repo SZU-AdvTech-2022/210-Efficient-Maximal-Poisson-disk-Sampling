@@ -1,0 +1,5 @@
+@article{Ebeida2011EfficientMP, 
+title={Efficient Maximal Poisson-disk Sampling}, 
+author={Mohamed S. Ebeida and Andrew A. Davidson and Anjul Patney and Patrick M. Knupp and Scott A. Mitchell and John Douglas Owens}, 
+journal={ACM SIGGRAPH 2011 papers}, 
+year={2011} }
