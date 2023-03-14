@@ -1,4 +1,4 @@
-@article{REPO-211,
+@article{REPO-210,
     author = "Ebeida, Mohamed S. and Davidson, Andrew A. and Patney, Anjul and Knupp, Patrick M. and Mitchell, Scott A. and Owens, John Douglas",
     journal = "ACM SIGGRAPH 2011 papers",
     title = "{Efficient Maximal Poisson-disk Sampling}",
